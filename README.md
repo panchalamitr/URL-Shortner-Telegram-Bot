@@ -2,12 +2,12 @@
 
 This is a Telegram bot that shortens URLs using the TinyURL API.
 
-## Explaination of code
-
-    Import necessary modules:
+## Import necessary modules:
         telegram: to interact with the Telegram API
         pyshorteners: to shorten URLs
         validators: to validate URLs
+
+## Explaination
 
     Initialize the bot and shortener instances using telegram.Bot() and pyshorteners.Shortener() respectively.
 
